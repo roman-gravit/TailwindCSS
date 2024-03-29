@@ -1,5 +1,11 @@
-/*
-! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com
+/** 
+	Apply some base styles to specific elements.
+	Final styles.css will be build from this main.css.
+	If you add some stles in index.html - they will also 
+	be added by Tailwind to the end of the styles.css.
+*/
+
+/*! tailwindcss v3.4.3 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -563,6 +569,20 @@ video {
   font-weight: 700;
 }
 
-.underline {
-  text-decoration-line: underline;
+.font-semibold {
+  font-weight: 600;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.text-purple-800 {
+  --tw-text-opacity: 1;
+  color: rgb(107 33 168 / var(--tw-text-opacity));
+}
+
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity));
 }
