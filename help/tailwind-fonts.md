@@ -76,6 +76,16 @@ Use the  *text-....* utilities to control the text color of an element.
   - normal-case
 
 
+### Whitespace
+  
+  - whitespace-normal
+  - whitespace-nowrap
+  - whitespace-pre
+  - whitespace-pre-line
+  - whitespace-pre-wrap
+  - whitespace-break-spaces
+
+
 For other - see Tailwind documentation.
 
 
