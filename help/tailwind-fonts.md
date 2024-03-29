@@ -1,9 +1,9 @@
-#### Tailwind
+# Tailwind
 
 
-### Fonts
+## Fonts
 
-# Font Size
+### Font Size
 
   - text-xs (font-size: 0.75rem)  
   - text-sm (0.875rem)
@@ -17,13 +17,13 @@
   Note: rem(root element = 16px)
 
 
-# Font Style
+### Font Style
 
   - italic
   - not-italic
   
 
-# Font Weight
+### Font Weight
 
   - font-thin (font-weight: 100)
   - font-extralight	(200)
@@ -36,7 +36,7 @@
   - font-black (900)
 
 
-# Text Align
+### Text Align
 
   - text-left
   - text-center
@@ -46,12 +46,12 @@
   - text-end
 
 
-# Text Color
+### Text Color
 
 Use the  *text-....* utilities to control the text color of an element.
 
 
-# Text Decoration
+### Text Decoration
 
   - underline	
   - overline	
@@ -59,7 +59,7 @@ Use the  *text-....* utilities to control the text color of an element.
   - no-underline	
 
 
-# Text Decoration Style
+### Text Decoration Style
 
   - decoration-solid
   - decoration-double
@@ -68,7 +68,7 @@ Use the  *text-....* utilities to control the text color of an element.
   - decoration-wavy
 
 
-# Text Transform
+### Text Transform
 
   - uppercase	
   - lowercase
@@ -76,6 +76,6 @@ Use the  *text-....* utilities to control the text color of an element.
   - normal-case
 
 
-
+For other - see Tailwind documentation.
 
 
